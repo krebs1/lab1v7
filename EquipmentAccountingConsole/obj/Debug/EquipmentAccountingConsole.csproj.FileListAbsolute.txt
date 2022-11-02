@@ -1,0 +1,7 @@
+C:\Users\fanto\RiderProjects\EquipmentAccountingConsole\EquipmentAccountingConsole\bin\Debug\EquipmentAccountingConsole.exe
+C:\Users\fanto\RiderProjects\EquipmentAccountingConsole\EquipmentAccountingConsole\bin\Debug\EquipmentAccountingConsole.pdb
+C:\Users\fanto\RiderProjects\EquipmentAccountingConsole\EquipmentAccountingConsole\obj\Debug\EquipmentAccountingConsole.csproj.AssemblyReference.cache
+C:\Users\fanto\RiderProjects\EquipmentAccountingConsole\EquipmentAccountingConsole\obj\Debug\EquipmentAccountingConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanto\RiderProjects\EquipmentAccountingConsole\EquipmentAccountingConsole\obj\Debug\EquipmentAccountingConsole.csproj.CoreCompileInputs.cache
+C:\Users\fanto\RiderProjects\EquipmentAccountingConsole\EquipmentAccountingConsole\obj\Debug\EquipmentAccountingConsole.exe
+C:\Users\fanto\RiderProjects\EquipmentAccountingConsole\EquipmentAccountingConsole\obj\Debug\EquipmentAccountingConsole.pdb
